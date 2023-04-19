@@ -1,0 +1,18 @@
+Resource Link :
+
+https://css-tricks.com/perfect-full-page-background-image/
+https://mailchimp.com/en/help/add-a-signup-form-to-your-website/
+
+
+
+Bootstrap 5.2+ Button Hover Update
+- Variable :
+
+As part of Bootstrap's evolving CSS variables approach, 
+buttons now use local CSS variables on .btn for enhanced real-time customization. 
+Values for the CSS variables are set via Sass, so Sass customization i still
+supported, too.
+
+
+Keytakeaways : 
+- Learn Boostrap 5 Containter 
